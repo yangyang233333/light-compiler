@@ -1,0 +1,8 @@
+# ninja log v5
+2	264	6766423584908220	CMakeFiles/light_compiler.dir/src/main.cpp.obj	3308dc2287aca081
+264	369	6766423585928218	light_compiler.exe	1cd8aadcded1b613
+12	69	6765722900255682	CMakeFiles/light_compiler.dir/src/lexer.cc.obj	8049442a97e38f31
+1	318	6766443927772055	CMakeFiles/light_compiler.dir/src/main.cc.obj	f80b0170158d5a7
+9	342	6766443928032107	CMakeFiles/light_compiler.dir/src/lexer.cpp.obj	c13f0f13d405e6a3
+3	235	6766444754580375	CMakeFiles/light_compiler.dir/src/main.cc.obj	f80b0170158d5a7
+13	242	6766444754650414	CMakeFiles/light_compiler.dir/src/lexer.cpp.obj	c13f0f13d405e6a3
