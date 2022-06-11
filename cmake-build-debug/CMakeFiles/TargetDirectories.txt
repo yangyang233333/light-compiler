@@ -1,3 +1,0 @@
-E:/light-compiler/cmake-build-debug/CMakeFiles/light_compiler.dir
-E:/light-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/light-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
